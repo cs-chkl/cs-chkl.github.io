@@ -25,7 +25,6 @@ description: CHKL
 navbar-links:
   About Us: "aboutus"
   Tags: "tags"
-  History: "history"
   Resources:
     - Learning Resources: "resources"
     - Learn markdown: "http://www.markdowntutorial.com/"
