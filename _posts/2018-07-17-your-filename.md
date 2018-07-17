@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ''
+title: My First Post
 subtitle: New Post. Really?
 date: '2018-07-17'
 ---
